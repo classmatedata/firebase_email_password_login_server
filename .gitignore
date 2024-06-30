@@ -1,6 +1,4 @@
 .env
-/node_modes
-src/firebaseService.json
-
-
+firebaseService.json
+node_modules/
 package-lock.json
